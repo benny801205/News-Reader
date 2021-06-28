@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Feed Read</string>
+    <string name="add_entry">Add a new entry</string>
+    <string name="record_entry">get news from XML</string>
+    <string name="title_label">Title</string>
+    <string name="duration_label">Duration</string>
+    <string name="save_label">Save</string>
+    <string name="duration_hint">minutes</string>
+    <string name="info">Info</string>
+    <string name="ok">OK</string>
+    <string name="app_info">Feed Read</string>
+    <!-- Preference Titles -->
+    <string name="header1">Feeds</string>
+    <string name="header2">Preferences</string>
+
+    <!-- Messages Preferences -->
+    <string name="sort_title">Sort by</string>
+    <string name="time_title">Feed look up interval</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title1">ESPN</string>
+    <string name="sync_title2">WSJ</string>
+    <string name="sync_title3">Life Hacker</string>
+
+
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

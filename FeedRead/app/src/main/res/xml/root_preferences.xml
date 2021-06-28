@@ -1,0 +1,43 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/header1">
+        <SwitchPreferenceCompat
+            app:key="ESPN"
+            app:summary="https://www.espn.com/espn/rss/news"
+            app:title="@string/sync_title1" />
+
+        <SwitchPreferenceCompat
+            app:key="WSJ"
+            app:summary="https://feeds.a.dj.com/rss/RSSWSJD.xml"
+            app:title="@string/sync_title2" />
+
+        <SwitchPreferenceCompat
+            app:key="Life_Hacker"
+            app:summary="https://lifehacker.com/rss"
+            app:title="@string/sync_title3" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/header2">
+
+        <ListPreference
+            app:defaultValue="Title"
+            app:entries="@array/sort_entries"
+            app:entryValues="@array/sort_values"
+            app:key="sort"
+            app:title="@string/sort_title"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="15"
+            app:entries="@array/time_entries"
+            app:entryValues="@array/time_values"
+            app:key="time"
+            app:title="@string/time_title"
+            app:useSimpleSummaryProvider="true" />
+
+
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

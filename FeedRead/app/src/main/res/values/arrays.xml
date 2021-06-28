@@ -1,0 +1,34 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="sort_entries">
+        <item>Title</item>
+        <item>Publication Date</item>
+        <item>Visited</item>
+        <item>Favorite</item>
+    </string-array>
+
+    <string-array name="sort_values">
+        <item>Title</item>
+        <item>Publication Date</item>
+        <item>Visited</item>
+        <item>Favorite</item>
+    </string-array>
+
+    <string-array name="time_entries">
+        <item>15 minutes</item>
+        <item>1 hour</item>
+        <item>1 day</item>
+        <item>Never</item>
+    </string-array>
+
+    <string-array name="time_values">
+        <item>15</item>
+        <item>60</item>
+        <item>1200</item>
+        <item>9999999</item>
+    </string-array>
+
+
+
+
+</resources>
