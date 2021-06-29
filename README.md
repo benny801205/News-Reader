@@ -2,7 +2,7 @@
 # News Reader
  An Android Appliction which can subscribe news and read news
 ## Tools
- Android studio 
+ Android studio, Bundle, ViewModel,Fragment, Background taks. Brpadcasts,
 
 
 ## Demo
