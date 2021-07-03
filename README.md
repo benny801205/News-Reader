@@ -4,6 +4,8 @@
 ## Tools
  Android studio, Bundle, ViewModel,Fragment, Background taks. Brpadcasts,
 
+## Features
+ Filter, Bookmark, XML Reader
 
 ## Demo
 <img src="examples/1.PNG">
